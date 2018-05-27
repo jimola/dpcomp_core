@@ -88,7 +88,7 @@ $ python examples/simple_workflow.py
 [["{'error_payload': {'TypeI.L1': 0.081073246344863972, 'TypeI.L2': 0.0061553031454959529, 'TypeI.Linf': 0.26251196948550681}, 'key': '44299e07f79cdc0c7481a927', 'hash': '44299e07f79cdc0c7481a92740f70bad2cf97f4b',...
 ```
 The output of this example script is experiment result in a json-like format. Query errors are stored with entry `error_payload`.
-
+n
 
 To run your own algorithm, refer to `examples/custom_algorithm.py`.
 ```bash
